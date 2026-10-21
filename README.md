@@ -16,8 +16,12 @@ DIY Touch Stream Deck built using ESP32 and touch sensors.
 
 ## YouTube Channel
 
-[@BuiltFromIdeas
-](https://youtube.com/@builtfromideas?si=c0yUt86fcLcfg6Nt)
+## Watch The Build
+
+🎥 YouTube:
+[https://www.youtube.com/@BuiltFromIdeas
+](https://youtube.com/@builtfromideas?si=-IwYWAg0Chxdw-B9)
+
 ## Built From Ideas
 
 Turning ideas into reality.
