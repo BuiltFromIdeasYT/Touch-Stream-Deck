@@ -1,28 +1,25 @@
 # Touch Stream Deck
 
-DIY Touch Stream Deck built using ESP32-S3 and touch sensors.
+DIY Touch Stream Deck built using ESP32 and touch sensors.
 
 ## Features
 
 - 9 Touch Buttons
-- Display
 - RGB Lighting
-- Custom Commands
+- Custom Display
 
 ## Components
 
-- ESP32-S3
-- Display
+- ESP32
 - Touch Sensors
-- USB Connection
+- TFT Display
 
-## Files
+## YouTube Channel
 
-- Code
-- Wiring Diagram
-- Images
+[@BuiltFromIdeas
+](https://youtube.com/@builtfromideas?si=c0yUt86fcLcfg6Nt)
+## Built From Ideas
 
-## YouTube
+Turning ideas into reality.
 
-Built From Ideas
-
+Built, not bought.
